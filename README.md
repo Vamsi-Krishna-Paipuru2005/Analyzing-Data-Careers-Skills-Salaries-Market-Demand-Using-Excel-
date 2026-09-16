@@ -1,4 +1,4 @@
-# Analyzing Data Careers: Skills, Salaries & Market Demand | Using Excel
+# Analyzing Data Careers:Skills, Salaries & Market Demand | Using Excel
 
 
 ## Introduction
